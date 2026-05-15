@@ -5,7 +5,7 @@ function Header() {
     return (
         <header>
             <h1>
-                Home
+                Recuperação React
             </h1>
         </header>
     )

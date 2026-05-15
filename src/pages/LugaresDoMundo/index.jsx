@@ -12,7 +12,7 @@ function Operaçoes(event) {
             <h1>
                 Lugares do Mundo
             </h1>
-            <img src="images/alemanha.jpeg" />
+            <img src="images/alemanha.jpeg" ></img>
             <Link to="/" >
                 <button>
                     Home
